@@ -1,0 +1,102 @@
+[
+  {
+    "_firstName": "Yardi",
+    "_lastName": "van Nimwegen",
+    "_userName": "Yardivn",
+    "_password": "12345",
+    "_studentHouseID": 1,
+    "FirstName": "Yardi",
+    "LastName": "van Nimwegen",
+    "UserName": "Yardivn"
+  },
+  {
+    "_firstName": "Haris",
+    "_lastName": "Kyriakoudes",
+    "_userName": "Kyria",
+    "_password": "12345",
+    "_studentHouseID": 1,
+    "FirstName": "Haris",
+    "LastName": "Kyriakoudes",
+    "UserName": "Kyria"
+  },
+  {
+    "_firstName": "Vladyslav",
+    "_lastName": "Luzianin",
+    "_userName": "Vlady",
+    "_password": "12345",
+    "_studentHouseID": 1,
+    "FirstName": "Vladyslav",
+    "LastName": "Luzianin",
+    "UserName": "Vlady"
+  },
+  {
+    "_firstName": "Minh",
+    "_lastName": "Le",
+    "_userName": "Minh",
+    "_password": "12345",
+    "_studentHouseID": 1,
+    "FirstName": "Minh",
+    "LastName": "Le",
+    "UserName": "Minh"
+  },
+  {
+    "_firstName": "John",
+    "_lastName": "Doe",
+    "_userName": "jdoe",
+    "_password": "password1",
+    "_studentHouseID": 1234,
+    "FirstName": "John",
+    "LastName": "Doe",
+    "UserName": "jdoe"
+  },
+  {
+    "_firstName": "Jane",
+    "_lastName": "Smith",
+    "_userName": "jsmith",
+    "_password": "password2",
+    "_studentHouseID": 5678,
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "UserName": "jsmith"
+  },
+  {
+    "_firstName": "Bob",
+    "_lastName": "Johnson",
+    "_userName": "bjohnson",
+    "_password": "password3",
+    "_studentHouseID": 9012,
+    "FirstName": "Bob",
+    "LastName": "Johnson",
+    "UserName": "bjohnson"
+  },
+  {
+    "_firstName": "Alice",
+    "_lastName": "Williams",
+    "_userName": "awilliams",
+    "_password": "password4",
+    "_studentHouseID": 3456,
+    "FirstName": "Alice",
+    "LastName": "Williams",
+    "UserName": "awilliams"
+  },
+  {
+    "_firstName": "Tom",
+    "_lastName": "Brown",
+    "_userName": "tbrown",
+    "_password": "password5",
+    "_studentHouseID": 7890,
+    "FirstName": "Tom",
+    "LastName": "Brown",
+    "UserName": "tbrown"
+  },
+  {
+    "_firstName": "Emily",
+    "_lastName": "Jones",
+    "_userName": "ejones",
+    "_password": "password6",
+    "_studentHouseID": 2345,
+    "FirstName": "Emily",
+    "LastName": "Jones",
+    "UserName": "ejones"
+  }
+]

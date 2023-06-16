@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "description": "There is excessive noise coming from Room 101 during quiet hours."
+    },
+    {
+      "id": "2",
+      "description": "The shower in the common bathroom on the second floor is not working properly."
+    },
+    {
+      "id": "3",
+      "description": "The kitchen area is consistently messy and needs regular cleaning."
+    },
+    {"id": "4",
+      "description": "There is a leak in the sink in the kitchen area"
+    }
+]
